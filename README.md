@@ -1,15 +1,16 @@
-### Hope you are doing fine!
-
+### Hello there👋, Hope you are doing fine!
 
 - 🔭 I’m currently working on a social media project's REST APIs.
                                         
-      This APIs are built in Golang and Postgressql
+      These APIs are built using Golang and Postgressql.
 
-- 🌱 I’m currently learning react js.
+- 🌱 I’m currently learning Reactjs.
         
       So far I have learnt about components and managing state(redux).
   
-- 👯 I’m looking to collaborate with team with which I can enhance my skills.
+- 👯 What to do in Future?
+
+      I’m looking to collaborate with team with which I can enhance my skills.
   
 - 📫 How to reach me?
         
