@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hope you are doing fine!
 
-<!--
-**tshubham7/tshubham7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a social media project's REST APIs.
+                                        
+      This APIs are built in Golang and Postgressql
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning react js.
+        
+      So far I have learnt about components and managing state(redux).
+  
+- 👯 I’m looking to collaborate with team with which I can enhance my skills.
+  
+- 📫 How to reach me?
+        
+      linkedIn: https://www.linkedin.com/in/shubham-dhanera-a25716157/
+      Email: tshubham19@gmail.com
